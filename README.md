@@ -477,13 +477,13 @@ Name	  company	  Items
 
 Aman	  amazon 	  Phone  
 
-Rohan	  flipkart	  Frij  
+Rohan	  flipkart	  phone cover   
 
 Rachit	  messo	       Fan  
 
 Vinayak	  snapdeal	  Watch  
 
-kishan	  messo	    Eyerwords  
+kishan	  messo	     pen 
 
 <img width="241" height="145" alt="image" src="https://github.com/user-attachments/assets/6f5bc98f-a275-4966-b159-856c92b4fbed" />  
 
